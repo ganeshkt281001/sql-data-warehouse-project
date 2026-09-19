@@ -106,3 +106,8 @@ BEGIN
 
 END;
 $$;
+
+
+
+
+CALL bronze.load_bronze();
